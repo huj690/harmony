@@ -1,6 +1,14 @@
 <h6>Follow me</h6>
 
 <ul class="social-media">
+    {% if site.harmony.social.linkedin %}
+    <li>
+        <a title="{{ site.harmony.social.linkedin }} on Linkedin" 
+            href="https://cn.linkedin.com/in/{{ site.harmony.social.linkedin }}" 
+            class="linkedin wc-img-replace" target="_blank">Linkedin</a>
+    </li>   
+    {% endif %}
+
     {% if site.harmony.social.twitter %}
     <li>
         <a title="{{ site.harmony.social.twitter }} on Twitter" 
@@ -9,13 +17,6 @@
     </li>   
     {% endif %}
     
-    {% if site.harmony.social.linkedin %}
-    <li>
-        <a title="{{ site.harmony.social.linkedin }} on Linkedin" 
-            href="https://cn.linkedin.com/in/{{ site.harmony.social.linkedin }}" 
-            class="linkedin wc-img-replace" target="_blank">Linkedin</a>
-    </li>   
-    {% endif %}
 
     {% if site.harmony.social.github %}
     <li>
@@ -56,5 +57,6 @@
             class="pinterest wc-img-replace" target="_blank">Pinterest</a>
     </li> 
     {% endif %}
+    
 
 </ul>

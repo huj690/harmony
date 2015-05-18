@@ -1,27 +1,13 @@
 ---
 layout: page
-title: About me
-permalink: /about/
+title: Life
+permalink: /life/
 ---
 
-### Interest
-Machine Learning, Natrual Language Processing, Computer Vision
+#####2015-05-18  
 
-### Experience
-**Microsoft Research Asia** 2014.04 - 2014.10  
-*Research and Software Development Intern, Natural Language Computing Group*
-
-### Education
-**Peking University** 2013.09 - 2016.07(expected)  
-*Master of Science in Computer Science*
-
-**Northeast Normal University** 2009.09 - 2013.07  
-*Bachelor of Engineering in Software Engineering*
-
-### Contact me
-Find me on [Linkedin][linkedin] / [Github][github] / [Facebook][facebook] / [Google+][google] / [Weibo][weibo] / [Renren][renren]  
-or just say `Hello` at 
-[jin.hu2013 at gmail.com](mailto:jin.hu2013@gmail.com).
+今天天气好好~搭起了自己的blog~么么哒！~
+![ali](http://img699.ph.126.net/6BGg7q7IruZlu863QMDjIw==/2841489889895171963.gif)![ali](http://img699.ph.126.net/6BGg7q7IruZlu863QMDjIw==/2841489889895171963.gif)![ali](http://img699.ph.126.net/6BGg7q7IruZlu863QMDjIw==/2841489889895171963.gif)
 <br>
 <br>
 <br>
