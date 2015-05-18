@@ -7,7 +7,7 @@ permalink: /life/
 #####2015-05-18  
 
 今天天气好好~搭起了自己的blog~么么哒！~
-![ali](http://img699.ph.126.net/6BGg7q7IruZlu863QMDjIw==/2841489889895171963.gif)![ali](http://img699.ph.126.net/6BGg7q7IruZlu863QMDjIw==/2841489889895171963.gif)![ali](http://img699.ph.126.net/6BGg7q7IruZlu863QMDjIw==/2841489889895171963.gif)
+![ali](photos/ali.jpg)
 <br>
 <br>
 <br>
