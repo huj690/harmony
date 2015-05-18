@@ -1,4 +1,14 @@
-# Harmony
+## Debug & Run
+1. Edit the _config.yml on root directory. Change `url` property to to 
+`http://127.0.0.1:4000` since you are going to run on localhost.
+2. 
+```
+bundle exec jekyll serve
+```
+
+---
+
+## Harmony
 
 Harmony is a responsive jekyll theme. 
 
