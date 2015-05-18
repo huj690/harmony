@@ -1,13 +1,19 @@
 <h6>Follow me</h6>
 
 <ul class="social-media">
-
-
     {% if site.harmony.social.twitter %}
     <li>
         <a title="{{ site.harmony.social.twitter }} on Twitter" 
             href="https://twitter.com/{{ site.harmony.social.twitter }}" 
             class="twitter wc-img-replace" target="_blank">Twitter</a>
+    </li>   
+    {% endif %}
+    
+    {% if site.harmony.social.linkedin %}
+    <li>
+        <a title="{{ site.harmony.social.linkedin }} on Linkedin" 
+            href="https://cn.linkedin.com/in/{{ site.harmony.social.linkedin }}" 
+            class="linkedin wc-img-replace" target="_blank">Linkedin</a>
     </li>   
     {% endif %}
 
