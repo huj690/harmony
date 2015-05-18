@@ -18,9 +18,7 @@
 
 
 /* -------------------------------- 
-
  Primary style
-
 -------------------------------- */
 
 html * {
@@ -61,9 +59,7 @@ body {
 }
 
 /* --------------------------------
-
  Small Typography
-
 --------------------------------- */
 
 h1, h2, h3, h4, h5, h6 { 
@@ -116,9 +112,9 @@ h6 {
 
 p {
   line-height: 1.6;
-  @include font-size(12px);
+  @include font-size(14px);
   @include MQ(M) {
-    @include font-size(14px);
+    @include font-size(18px);
   }
 }
 
@@ -152,9 +148,7 @@ strong, b { font-weight: 600; }
 /* italic */
 em, i { font-style: italic; }
 /* --------------------------------
-
  Theme base
-
 --------------------------------- */
 
 // default 
@@ -401,7 +395,7 @@ div.page-content {
     margin-left: 0;
     li {
       color: $color-2; 
-      line-height: 1.1;
+      line-height: 1.6;
       padding: 0 0 5px 0px;
       margin-left: 2em;
       position:relative;
@@ -495,9 +489,7 @@ body.theme-base-01 {
 }
 
 /* --------------------------------
-
  Main Header
-
 --------------------------------- */
 
 header.main-header { 
@@ -515,9 +507,7 @@ footer.main-footer {
 
 
 /* ---------------------------------
-
   Blockquote
-
 ---------------------------------- */
 blockquote {
   padding: .5em 1em;
@@ -536,9 +526,7 @@ blockquote p:last-child {
 }
 
 /* --------------------------------
-
 Code snippets
-
 --------------------------------- */
 code, pre {
   font-family: Menlo, Monaco, "Courier New", monospace;
@@ -609,9 +597,7 @@ pre {
 }
 
 /* --------------------------------
-
 Post styles
-
 --------------------------------- */
 
 div.posts {
@@ -647,9 +633,7 @@ p.post-meta {
 }
 
 /* --------------------------------
-
  Related post
-
 --------------------------------- */
 .related {
   padding-top: 1em;
@@ -681,9 +665,7 @@ p.post-meta {
 }
 
 /* --------------------------------
-
  Post footer
-
 --------------------------------- */
 .post-footer {
   
@@ -731,9 +713,7 @@ p.post-meta {
 }
 
 /* -----------------------------------
-
   Table
-
 ----------------------------------- */
 table {
   margin: 1em 0;
@@ -750,3 +730,4 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: $base-05;
 }
+

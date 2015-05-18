@@ -7,7 +7,7 @@ permalink: /life/
 #####2015-05-18  
 
 今天天气好好~搭起了自己的blog~么么哒！~
-![ali](photos/ali.jpg)
+![ali](http://qqpifu.dn.weimeipic.com/wp-content/uploads/2012/05/121332YDf.jpg)
 <br>
 <br>
 <br>
